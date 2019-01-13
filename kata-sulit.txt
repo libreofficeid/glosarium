@@ -12,6 +12,8 @@ F
 
 G
 
+Group = kelompokkan
+
 H
 
 I
@@ -23,6 +25,8 @@ K
 L
 
 M
+
+modify  = ubah 
 
 N
 
@@ -40,6 +44,7 @@ T
 
 U
 
+Ungroup = lepaskan kelompok
 V
 
 W
