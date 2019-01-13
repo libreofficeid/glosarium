@@ -139,6 +139,7 @@ view = tampilan<br/>
 **wizard** = wahana pandu / wisaya --cek<br/>
 worksheet = lembar kerja<br/>
 wrap = bungkus<br/>
+wildcard = wildcard<br/>
 
 ## X
 
