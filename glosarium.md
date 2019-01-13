@@ -4,6 +4,7 @@
 advanced = lanjut<br/>
 align = perataan<br/>
 author = pengarang<br/>
+AutoValue = NilaiOtomatis<br/>
 
 ## B
 bar = bilah
@@ -45,6 +46,7 @@ field = ruas<br/>
 file = berkas<br/>
 footer = kaki<br/>
 format = format<br/>
+font = fonta<br/>
 
 ## G
 grid = kisi<br/>
