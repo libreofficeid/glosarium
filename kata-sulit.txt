@@ -1,10 +1,17 @@
 A
 
+Achor     = Jangkar/Tambat
+Ampersand = Ampersand
+
 B
+
+Bracket   = Braket, Kurung
+
 
 C
 
 D
+
 
 E
 
@@ -26,19 +33,29 @@ L
 
 M
 
-modify  = ubah 
+modify        = ubah 
+Metacharacter = Karakter Meta
+
 
 N
 
 O
 
+Obscure = Mengaburkan
+
 P
+
+Pitch = Jarak
+Pre-defined = Dipra-definisi
+Primary key = kunci utama
 
 Q
 
 R
 
 S
+
+Stands = Representasi
 
 T
 
